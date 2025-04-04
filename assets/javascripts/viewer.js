@@ -1,6 +1,6 @@
 (function () {
   // TODO edit
-  const baseUrl = '/scannedImgViewer';
+  const baseUrl = '/1899JittaiHoeoeSinphian';
   const dataFolderPath = '/chuliau';
   const dataNamePrefix = '/TJTST1_';
   const dataNameNumberCount = 3;
