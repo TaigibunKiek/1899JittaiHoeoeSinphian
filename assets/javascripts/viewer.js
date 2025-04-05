@@ -2,10 +2,10 @@
   // TODO edit
   const baseUrl = '/1899JittaiHoeoeSinphian';
   const dataFolderPath = '/chuliau';
-  const dataNamePrefix = '/TJTST1_';
+  const dataNamePrefix = '/1899JittaiHoeoeSinphian_Page_';
   const dataNameNumberCount = 3;
   const dataNameSuffix = '.jpg';
-  const lastPageNumber = 12;
+  const lastPageNumber = 308;
 
   let imgSources = [];
   const imgSourcesMin = 1;
